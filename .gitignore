@@ -1,0 +1,13 @@
+*.pyc
+*~
+__pycache__
+bin
+include
+lib
+db.sqlite3
+/static
+.DS_Store
+mementopython3-english.pdf
+temp
+pip-selfcheck.json
+.python
